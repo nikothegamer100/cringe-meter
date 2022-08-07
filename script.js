@@ -9,7 +9,11 @@
                 sans: -0.5,
                 furry: 2,
                 teera: 10,
-                robert: -2
+                robert: -2,
+              ugnius: 0.01,
+              manuel: 0.1,
+              niko: 1,
+              cristal: 0,
             }
 
             var reasons = {
@@ -19,7 +23,11 @@
               sans: "-50% cringe, hasnt done anything cringe",
               furry: "absioubgauig",
               teera: "cringe human being that has done many cringe things",
-              robert: "robert is 100% non cringe"
+              robert: "robert is 100% non cringe",
+              ugnius: "good human being",
+              manuel: "good human being, but imagine being a furry...",
+              niko: "imagine being a furry",
+              cristal: "good human being"
             }
 
             function calculat() {
