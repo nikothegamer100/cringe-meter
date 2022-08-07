@@ -13,7 +13,7 @@
               ugnius: 0.01,
               manuel: 0.1,
               niko: 1,
-              cristal: 0,
+              cristal: 0
             }
 
             var reasons = {
